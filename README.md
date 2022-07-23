@@ -17,10 +17,13 @@ From the above information we see:
 
 ![image](https://user-images.githubusercontent.com/102704559/180622407-a0c22287-52ca-409d-861f-aea35078fec9.png) 
 
-Total Summary
+
 ![image](https://user-images.githubusercontent.com/102704559/180622422-a7dcf60b-0f56-45b3-a6cc-5a8d035a5f51.png)
 
-Lot Summary
+Lots 1 and 2 are withing the 100 PSI variance requirements, with 0.98 and 7.47 respectively. However, lot 3 has a much larcher variance in PSY at 170.29 amd is disproportinately creating the variance at the full lot level as seen in the graph below.
+
+![image](https://user-images.githubusercontent.com/102704559/180624640-3e917ecb-cc4b-4f64-9177-0330a7e4c35f.png)
+
 
 ## T-Tests on Suspension Coils
 
