@@ -27,5 +27,16 @@ Lots 1 and 2 are withing the 100 PSI variance requirements, with 0.98 and 7.47 r
 
 ## T-Tests on Suspension Coils
 
+![image](https://user-images.githubusercontent.com/102704559/180624725-5abb21d9-77c2-47c5-b5ef-34bd53a11749.png)
+
+![image](https://user-images.githubusercontent.com/102704559/180624737-148f6107-3e67-4489-b5b2-ba6371634751.png)
+
+![image](https://user-images.githubusercontent.com/102704559/180624749-7878d859-28fa-4c6d-a5d1-b9b4b8aaee5d.png)
+
+![image](https://user-images.githubusercontent.com/102704559/180624754-e58e46d6-7796-4da0-9744-f1084c3c4513.png)
+ 
+
+
+
 
 ## Study Design: MechaCar vs Competition
