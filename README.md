@@ -15,8 +15,12 @@ From the above information we see:
 ## Summary Statistics on Suspension Coils
 
 
-![image](https://user-images.githubusercontent.com/102704559/180622407-a0c22287-52ca-409d-861f-aea35078fec9.png) Total Summary
-![image](https://user-images.githubusercontent.com/102704559/180622422-a7dcf60b-0f56-45b3-a6cc-5a8d035a5f51.png) Lot Summary
+![image](https://user-images.githubusercontent.com/102704559/180622407-a0c22287-52ca-409d-861f-aea35078fec9.png) 
+
+Total Summary
+![image](https://user-images.githubusercontent.com/102704559/180622422-a7dcf60b-0f56-45b3-a6cc-5a8d035a5f51.png)
+
+Lot Summary
 
 ## T-Tests on Suspension Coils
 
