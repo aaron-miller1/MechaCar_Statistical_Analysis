@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/102704559/180344186-aaea1033-bdc1-4b7b-9f09-5b2b5a252ca0.png)
 
-
+1. Vehicle length and vehicle ground clearance are more likely to provide non-random amounts of variance in this model.
 ## Summary Statistics on Suspension Coils
 
 ![image](https://user-images.githubusercontent.com/102704559/180622407-a0c22287-52ca-409d-861f-aea35078fec9.png)
