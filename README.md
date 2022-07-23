@@ -45,7 +45,7 @@ Lots 1 & 2 have similar sample means of around 1500, while lot 1 has a p value o
 ## Study Design: MechaCar vs Competition
 
 
-# Hypothesis: Null and Alternative
+#### Hypothesis: Null and Alternative
 
 Null Hypothesis (Ho): MechaCar is priced correctly based on its performance of key factors for its genre.
 Alternative Hypothesis (Ha): MechaCar is NOT priced correctly based on performance of key factors for its genre.
