@@ -47,5 +47,5 @@ Lots 1 & 2 have similar sample means of around 1500, while lot 1 has a p value o
 
 #### Hypothesis: Null and Alternative
 
-Null Hypothesis (Ho): MechaCar is priced correctly based on its performance of key factors for its genre.
+Null Hypothesis (Ho): MechaCar is priced correctly based on its performance of key factors for its genre. <br/>
 Alternative Hypothesis (Ha): MechaCar is NOT priced correctly based on performance of key factors for its genre.
