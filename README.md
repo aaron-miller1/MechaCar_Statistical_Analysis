@@ -44,8 +44,25 @@ Lots 1 & 2 have similar sample means of around 1500, while lot 1 has a p value o
 
 ## Study Design: MechaCar vs Competition
 
+This study would involve collectin data across several different manufacturers.
+- What are the competitions comparable models?
+- Which cars will be MechaCar be competing with head to head
+- Which factors will be able to determine the selling price?
+
+#### Metrics
+
+- Current Price: Dependent Variable
+- Engine: Independent Variable
+- Resale Value: Independent Variable
+- MPG: Independent Variable
+- Annual Cost: Independent Variable
 
 #### Hypothesis: Null and Alternative
 
 Null Hypothesis (Ho): MechaCar is priced correctly based on its performance of key factors for its genre. <br/>
 Alternative Hypothesis (Ha): MechaCar is NOT priced correctly based on performance of key factors for its genre.
+
+
+#### Statistical Tests
+
+A multiple linear regression should be used to determine the factors with the highest correlation and predictability with their current price.
